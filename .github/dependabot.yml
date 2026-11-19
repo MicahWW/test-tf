@@ -5,3 +5,4 @@ updates:
       - "/"
     schedule:
       interval: daily
+    default-days: 0
