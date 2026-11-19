@@ -5,4 +5,5 @@ updates:
       - "/"
     schedule:
       interval: daily
-    default-days: 0
+    cooldown:
+      default-days: 0
