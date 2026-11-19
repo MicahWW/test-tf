@@ -3,5 +3,5 @@ terraform {
 }
 
 module "example" {
-  source = "git::https://github.com/MicahWW/test-tf-module.git?ref=v1.0.0"
+  source = "git::https://github.com/MicahWW/test-tf-module.git?ref=v1.1.0"
 }
